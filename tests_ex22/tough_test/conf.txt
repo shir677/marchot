@@ -1,0 +1,3 @@
+tests_ex22/tough_test/students
+tests_ex22/tough_test/io/input.txt
+tests_ex22/tough_test/io/correct_output.txt
