@@ -1,3 +1,0 @@
-tests_ex22/messed_up_paths_test/messing/up/students
-tests_ex22/messed_up_paths_test/messing/up/paths/input/input
-tests_ex22/messed_up_paths_test/messing/up/paths/expected_output/correct_output
